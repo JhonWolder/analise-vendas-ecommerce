@@ -1,0 +1,11 @@
+ID_Pedido,Data,Produto,Categoria,Quantidade,Preco_Unitario,Regiao
+1,2026-01-01,Notebook,Eletrônicos,1,4500.00,Sudeste
+2,2026-01-02,Camiseta,Vestuário,3,80.00,Sul
+3,2026-01-02,Smartphone,Eletrônicos,2,2500.00,Nordeste
+4,2026-01-03,Cadeira Office,Móveis,1,1200.00,Sudeste
+5,2026-01-04,Notebook,Eletrônicos,1,4500.00,Centro-Oeste
+6,2026-01-05,Tênis Corrida,Vestuário,2,350.00,Sul
+7,2026-01-05,Smartphone,Eletrônicos,1,2500.00,Sudeste
+8,2026-01-06,Mesa de Trabalho,Móveis,1,1500.00,Norte
+9,2026-01-07,Camiseta,Vestuário,5,80.00,Nordeste
+10,2026-01-08,Cadeira Office,Móveis,2,1200.00,Sudeste
